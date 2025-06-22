@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Calculator
+Exec=/home/sanju/Documents/QT Designer/Test3/main.py
+Icon=accessories-calculator
+Terminal=false
+Type=Application
+Categories=Utility;
+
